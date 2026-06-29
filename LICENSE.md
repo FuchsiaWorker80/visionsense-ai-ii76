@@ -1,4 +1,4 @@
-# 
+# Atualizado VisionSense kit de ferramentas. Baixe e instale com multiplataforma e pronto para integração — rápido, seguro e fácil de usar.
 
 
 
